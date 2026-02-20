@@ -1,0 +1,11 @@
+title: What Did You Say?!
+description: Privacy Policy and Terms & Conditions for What Did You Say?! app
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - README.md
+  - .git
+  - .gitignore
